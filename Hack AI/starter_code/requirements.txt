@@ -1,0 +1,12 @@
+# Core packages
+pandas
+openpyxl
+ddgs
+
+# Optional packages for internet search and LLM use
+# duckduckgo-search
+# transformers
+# accelerate
+# torch
+# sentence-transformers
+# ollama
